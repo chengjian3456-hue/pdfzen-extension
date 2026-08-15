@@ -16,7 +16,7 @@
 
   Why it matters: most "free" PDF tools upload your documents to process them. PDFzen uses client-side libraries (pdf-lib, heic2any, Canvas) so every conversion happens on your own device. No account, no sign-up, no watermark.
 
-  We just open-sourced the Chrome extension launcher at github.com/pdfzen/pdfzen.
+  We just open-sourced the Chrome extension launcher at https://github.com/chengjian3456-hue/pdfzen-extension.
 
 ### First comment (maker comment)
 > Hey PH! I built PDFzen because I was tired of uploading contracts and resumes to random PDF sites and wondering where my files ended up.
@@ -39,7 +39,7 @@
 - **Short description:** Free, private, 100% browser-based PDF & image tools. No upload, no sign-up.
 - **Full description:**
   PDFzen offers a fast, free and private alternative to Adobe Acrobat, Smallpdf and iLovePDF. All processing is done locally in your browser — your documents never leave your device. Features include merge, split, compress, convert (PDF to Word/Excel/JPG/PNG/text), sign, redact, watermark, rotate, add page numbers, plus image tools (HEIC→JPG, compress, resize, WebP→PNG, SVG→PNG, remove background). No account required.
-- **Platforms:** Web, Chrome extension
+- **Platforms:** Web (open-source Chrome extension launcher on GitHub; load via Developer mode, no Web Store fee)
 - **Tags:** pdf, pdf-editor, pdf-converter, image-converter, privacy, offline, no-signup, free, open-source, heic-converter
 - **License:** MIT (Chrome extension source)
 
@@ -66,7 +66,7 @@ Body:
 > New: I open-sourced the Chrome extension launcher (MIT). It doesn't request any permissions and just deep-links to the tools.
 >
 > Live: https://aitoolnavigation.top
-> Extension repo: https://github.com/YOURUSERNAME/pdfzen (push via publish.ps1)
+> Extension repo: https://github.com/chengjian3456-hue/pdfzen-extension (push via publish.ps1)
 >
 > Curious which workflows people would find most useful — feedback welcome.
 
@@ -81,7 +81,7 @@ Body:
 > I've been building PDFzen, a collection of PDF and image tools that runs entirely client-side. No accounts, no uploads, no watermarks. The new Chrome extension is open-source (MIT) and requests zero permissions — it just opens the tools.
 >
 > Site: https://aitoolnavigation.top
-> Extension source: https://github.com/YOURUSERNAME/pdfzen
+> Extension source: https://github.com/chengjian3456-hue/pdfzen-extension
 >
 > Would love to hear what features the self-hosted crowd wants next.
 
